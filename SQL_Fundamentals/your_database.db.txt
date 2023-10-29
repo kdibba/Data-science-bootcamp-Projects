@@ -1,0 +1,34 @@
+
+
+-- Create a table for customers
+CREATE TABLE IF NOT EXISTS customers (
+    CustomerID INTEGER PRIMARY KEY,
+    FirstName TEXT,
+    LastName TEXT
+);
+
+-- Create a table for departments
+CREATE TABLE IF NOT EXISTS departments (
+    DepartmentID INTEGER PRIMARY KEY,
+    DepartmentName TEXT
+);
+
+-- Create a table for orders
+CREATE TABLE IF NOT EXISTS orders (
+    OrderID INTEGER PRIMARY KEY,
+    CustomerID INTEGER,
+    DepartmentID INTEGER,
+    OrderDate DATE,
+    CompletedDate DATE,
+    OrderAmount REAL
+);
+     ('Finance');
+
+-- Insert sample data into the orders table
+INSERT INTO orders (CustomerID, DepartmentID, OrderDate, CompletedDate, OrderAmount) VALUES
+    (1, 1, '2023-03-18', '2023-03-19', 500.00),
+    (2, 1, '2023-03-18', '2023-03-19', 750.00),
+    (3, 2, '2023-01-15', '2023-01-16', 300.00),
+    (1, 3, '2022-12-05', '2022-12-06', 700.00),
+    (2, 1, '2022-11-10', '2022-11-11', 450.00),
+    (3, 3, '2022-11-25', '2022-11-26', 550.00);
