@@ -1,0 +1,17 @@
+
+#Create a histogram with pandas for MEDV in the housing data:
+
+import pandas as pd
+
+
+
+# Create a histogram for the 'MEDV' column with 20 bins
+housing_data['MEDV'].plot(kind='hist', bins=20, edgecolor='black')
+
+# Add labels and a title
+plt.xlabel('MEDV')
+plt.ylabel('Frequency')
+plt.title('Histogram of MEDV')
+
+# Show the plot
+plt.show()

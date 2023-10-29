@@ -1,0 +1,16 @@
+#Create a scatter plot of two heatmap entries with a positive correlation:
+
+import matplotlib.pyplot as plt
+
+
+
+# Create a scatter plot
+plt.scatter(data1, data2, color='blue', marker='o')
+
+# Add labels and a title
+plt.xlabel('Data1')
+plt.ylabel('Data2')
+plt.title('Scatter Plot with Positive Correlation')
+
+# Show the plot
+plt.show()

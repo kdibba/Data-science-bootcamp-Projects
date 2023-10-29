@@ -1,0 +1,35 @@
+#Create a bar chart using col1 and col2 of dummy data
+
+import matplotlib.pyplot as plt
+import pandas as pd
+
+# Create a DataFrame with dummy data
+data = {'col1': [10, 20, 30, 40, 50],
+        'col2': [5, 15, 25, 35, 45]}
+df = pd.DataFrame(data)
+
+# Create a bar chart
+plt.bar(df.index, df['col1'], label='col1')
+plt.bar(df.index, df['col2'], label='col2', alpha=0.5)  # Use alpha to make the bars transparent
+
+# Add a title
+plt.title('Bar Chart Title')
+
+# Move the legend to the lower-left corner
+plt.legend(loc='lower left')
+
+# Show the plot
+plt.show()
+
+# Create a horizontal bar chart
+plt.barh(df.index, df['col1'], label='col1')
+plt.barh(df.index, df['col2'], label='col2', alpha=0.5)
+
+# Add a title
+plt.title('Horizontal Bar Chart Title')
+
+# Move the legend to the upper-right corner
+plt.legend(loc='upper right')
+
+# Show the plot
+plt.show()
