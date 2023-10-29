@@ -8,7 +8,7 @@ This repository is a portfolio of assignments that I'm completing as part of my 
 1. **Python Programming Fundamentals**
    - Purpose: Strengthen my Python programming skills.
    - Key Skills: Basic Python syntax, functions, loops, and data structures.
-   - File: `fundamentals_of_python`
+   - File: `Python_fundamentals`
 
 2. **Data Analysis with Pandas**
    - Purpose: Learn data manipulation and analysis with Pandas.
