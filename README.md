@@ -5,26 +5,26 @@
 This repository is a portfolio of assignments that I'm completing as part of my coursework. Each assignment is designed to help me develop and demonstrate various skills and knowledge in different areas of programming and data analysis. This README serves as an introduction to the assignments and highlights the key objectives and skills I'm expected to acquire during this project.
 
 ## Assignment List
+1. **Python Programming Fundamentals**
+   - Purpose: Strengthen my Python programming skills.
+   - Key Skills: Basic Python syntax, functions, loops, and data structures.
+   - File: `fundamentals_of_python`
 
-1. **Data Analysis with Pandas**
+2. **Data Analysis with Pandas**
    - Purpose: Learn data manipulation and analysis with Pandas.
    - Key Skills: Data cleaning, exploration, and basic analysis.
    - File: `Data visualization/`
 
-2. **Data Visualization with Matplotlib**
+3. **Data Visualization with Matplotlib**
    - Purpose: Gain proficiency in creating data visualizations using Matplotlib.
    - Key Skills: Creating different types of plots, customizing plots, and interpreting data visually.
    - File: `assignment2_data_visualization/`
 
-3. **Exploratory Data Analysis (EDA)**
+4. **Exploratory Data Analysis (EDA)**
    - Purpose: Understand the principles of EDA and its importance.
    - Key Skills: Data summarization, visualization, and insights generation.
    - File: `assignment3_eda/`
 
-4. **Python Programming Fundamentals**
-   - Purpose: Strengthen my Python programming skills.
-   - Key Skills: Basic Python syntax, functions, loops, and data structures.
-   - File: `assignment4_python_fundamentals/`
 
 5. **Project Management with Git and GitHub**
    - Purpose: Learn version control and collaboration using Git and GitHub.
