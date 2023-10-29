@@ -9,7 +9,7 @@ This repository is a portfolio of assignments that I'm completing as part of my 
 1. **Data Analysis with Pandas**
    - Purpose: Learn data manipulation and analysis with Pandas.
    - Key Skills: Data cleaning, exploration, and basic analysis.
-   - File: `Data visualization`
+   - File: `Data visualization/`
 
 2. **Data Visualization with Matplotlib**
    - Purpose: Gain proficiency in creating data visualizations using Matplotlib.
