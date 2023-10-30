@@ -21,15 +21,12 @@ This repository is a portfolio of assignments that I'm completing as part of my 
    - File: `assignment2_data_visualization/`
 
 4. **Exploratory Data Analysis (EDA)**
-   - Purpose: Understand the principles of EDA and its importance.
-   - Key Skills: Data summarization, visualization, and insights generation.
-   - File: `assignment3_eda/`
-
+   - TBA
+   
 
 5. **Project Management with Git and GitHub**
-   - Purpose: Learn version control and collaboration using Git and GitHub.
-   - Key Skills: Git commands, creating repositories, and collaborating with others.
-   - File: `assignment5_git_github/`
+   - TBA
+   
 
 ## What I'll Learn
 
