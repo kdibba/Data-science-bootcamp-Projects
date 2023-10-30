@@ -18,13 +18,20 @@ This repository is a portfolio of assignments that I'm completing as part of my 
 3. **Data Visualization with Matplotlib**
    - Purpose: Gain proficiency in creating data visualizations using Matplotlib.
    - Key Skills: Creating different types of plots, customizing plots, and interpreting data visually.
-   - File: `assignment2_data_visualization/`
+   - File: `Matplotlib/`
 
-4. **Exploratory Data Analysis (EDA)**
+4.**Fundamentals of SQL** 
+   - Purpose: introduce the fundamental concepts of SQL (Structured Query Language)
+   - Key Skills: retrieve data from databases,Learn to insert, update, and delete data ,filter and sort data to extract specific information,Understand how to combine data from multiple tables
+   - File: `Fundamentals of SQL/`
+
+
+    
+6. **Exploratory Data Analysis (EDA)**
    - TBA
    
 
-5. **Project Management with Git and GitHub**
+7. **Project Management with Git and GitHub**
    - TBA
    
 
