@@ -1,0 +1,20 @@
+1. **Statistical Significance:**
+   Use methods like hypothesis testing and p-values to assess statistical significance, with a smaller p-value indicating stronger evidence against the null hypothesis.
+
+2. **Central Limit Theorem (CLT):**
+   The CLT states that the sample mean's distribution will be approximately normal, regardless of the population distribution, given a sufficiently large sample size. This simplifies statistical analysis.
+
+3. **Statistical Power:**
+   Statistical power is the probability of correctly rejecting a false null hypothesis, influenced by factors like sample size and effect size. Higher power improves the ability to detect true effects.
+
+4. **Controlling Biases:**
+   Employ randomization, blinding, and careful design to control biases in research, ensuring fair distribution of variables and minimizing potential sources of error.
+
+5. **Confounding Variables:**
+   Confounding variables are extraneous factors that can impact the dependent variable. Use randomization and statistical controls to minimize their influence.
+
+6. **A/B Testing:**
+   A/B testing compares two versions (A and B) to determine performance differences. It's commonly used in marketing and product development to assess the impact of changes.
+
+7. **Confidence Intervals:**
+   Confidence intervals provide a range of values likely to contain the true population parameter. A 95% confidence interval, for example, suggests a 95% probability of containing the true parameter, giving a sense of estimate precision.
